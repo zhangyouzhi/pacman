@@ -60,6 +60,7 @@ You can learn how to use them from [Configuration](https://github.com/zhangyouzh
 ##Sites
 - [Jacman Theme](http://wuchong.me/jacman) - The demo site of Jacman Theme
 - [Jark's Blog](http://wuchong.me) - The author's blog of Jacman
+- [ZhangYouzhi's Blog](http://zhangyouzhi.com) - 有智者事竟成
 - [PhiloSky's Blog](http://philosky.ml/) - Personal blog
 - [hiluSdream](http://hiluluke.cn) - 梦想是无所谓无的，无所谓有的
 - [Melface](http://melface.tk) - Personal blog
