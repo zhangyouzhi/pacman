@@ -60,7 +60,7 @@ git pull origin master
 ##网站列表
 - [Jacman Theme](http://wuchong.me/jacman) - The demo site of Jacman Theme
 - [Jark's Blog](http://wuchong.me) - The author's blog of Jacman
-- [ZhangYouzhi's Blog](http://zhangyouzhi.com) - 有智者事竟成
+- [ZhangYouzhi's Blog](http://zhangyouzhi.com) - 有智者事竟成！
 - [PhiloSky's Blog](http://philosky.ml/) - 个人博客
 - [hiluSdream](http://hiluluke.cn) - 梦想是无所谓无的，无所谓有的
 - [Melface](http://melface.tk) - 个人博客
