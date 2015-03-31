@@ -25,7 +25,7 @@ git pull origin master
 
 ##Configuration
 
-Modify settings in  `/themes/jacman/_config.yml`. [Learn More](https://github.com/zhangyouzhi/pacman/wiki/%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97).
+Modify settings in  `/themes/pacman/_config.yml`. [Learn More](https://github.com/zhangyouzhi/pacman/wiki/%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97).
 
 ##Features
 - **menu**  
