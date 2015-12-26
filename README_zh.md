@@ -8,26 +8,26 @@ Pacman 是为 [Hexo](http://hexo.io) 设计的一款清新且具有响应式的�
 
 [如何使用 Pacman 主题](http://zhangyouzhi.com/2014/11/28/github-blog-hexo/)
 
-##安装教程
-###安装
+## 安装教程
+### 安装
 ```
 $ git clone https://github.com/zhangyouzhi/pacman.git themes/pacman
 ```
 **Pacman 需要 Hexo 2.7 及以上版本** 
-###启用
+### 启用
 修改博客根目录下的配置文件 `_config.yml`，把`theme`的值修改为 `pacman`.
-###更新
+### 更新
 ```
 cd themes/pacman
 git pull origin master
 ```
 **请先备份您主题目录下的 `_config.yml` 文件后再升级。**
 
-##配置指南
+## 配置指南
 
 修改  `/themes/pacman/_config.yml` 中的配置。通过[配置指南wiki](https://github.com/zhangyouzhi/pacman/wiki/%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97)了解更多
 
-##功能
+## 功能
 - **菜单 menu**  
  主导航菜单
 - **控件 widget**  
@@ -57,7 +57,7 @@ git pull origin master
 
 你可以通过[配置指南](https://github.com/zhangyouzhi/pacman/wiki/配置指南)了解更多使用细节。
 
-##网站列表
+## 网站列表
 - [Jacman Theme](http://wuchong.me/jacman) - The demo site of Jacman Theme
 - [Jark's Blog](http://wuchong.me) - The author's blog of Jacman
 - [ZhangYouzhi's Blog](http://zhangyouzhi.com) - 有智者事竟成！
@@ -74,5 +74,5 @@ git pull origin master
 
 如果你正在使用 Jacman主题，欢迎将网址添加到[wiki的网站列表](https://github.com/zhangyouzhi/pacman/wiki/Sites)。我会不定期进行整理。
 
-##协议
+## 协议
 [MIT](/LICENSE)
